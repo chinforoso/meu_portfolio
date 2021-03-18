@@ -175,7 +175,7 @@ h4 {
   text-align: center;
 }
 #contact input, #contact textarea {
-  width: 100%;
+  width: 85%;
   margin: 10px 0;
 }
 #contact textarea {
@@ -362,4 +362,4 @@ footer img {
 
 }
 
-/* possíveis ajustes a serem feitos em eventuais casualidades de incompatibilidade com dispositivos mobile.
+/* possíveis ajustes a serem feitos em eventuais casualidades de incompatibilidade com dispositivos mobile. */
