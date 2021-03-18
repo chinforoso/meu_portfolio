@@ -278,6 +278,9 @@ footer img {
   .site-nav li {
     margin-left: 20px;
   }
+  .site-nav li:hover {
+    border-bottom: 1.2px solid var(--primario);
+  }
   .welcome-text {
     grid-column: 1/5;
     align-self: center;
